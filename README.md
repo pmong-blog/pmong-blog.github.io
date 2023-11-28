@@ -1,5 +1,3 @@
-#pmong blog
+# pmong blog
 
-test blog
-
-20231128_add
+# 20231128_v01
